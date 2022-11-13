@@ -1,0 +1,10 @@
+Date: Sun Dec 01 14:39:28 EET 2019
+MAIL From: alexanderbasho@basho.com
+RCPT To: dimitrisgiannopoulos@gmail.com
+Subject: Hello
+Message:
+I am Alex
+
+
+
+

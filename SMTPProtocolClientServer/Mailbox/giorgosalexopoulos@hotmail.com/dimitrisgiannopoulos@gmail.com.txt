@@ -1,0 +1,8 @@
+Date: Sun Dec 01 20:29:00 EET 2019
+MAIL From: giorgosalexopoulos@hotmail.com
+RCPT To: dimitrisgiannopoulos@gmail.com
+Subject: Hello
+Message:
+I am Giorgos
+
+

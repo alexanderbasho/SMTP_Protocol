@@ -1,0 +1,9 @@
+Date: Sun Dec 01 14:37:48 EET 2019
+MAIL From: alexanderbasho@basho.com
+RCPT To: alexanderbasho@basho.com
+Subject: Hello
+Message:
+I am Alex
+
+
+
